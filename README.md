@@ -1,6 +1,6 @@
 # EEG
 EEGs have long been used by medical professionals to study the electric patterns of the brain and detect for 
-any abnormalities like that of seizure both pre and post attack etc. EEG is a noninvasive technique which is hence quite beneficial both in terms of medical purposes and for detecting liars 
+any abnormalities like that of seizure both pre and post attack etc. EEG is a non-invasive technique which is hence quite beneficial both in terms of medical purposes and for detecting liars 
 without any emotional and physiological expressions.
 # EEG as a tool for Lie Detection
 Deception detection has long been a challenge, with both positive and negative implications. On the positive side, it serves justice by identifying dishonest individuals, while on the negative side, some techniques employed have raised ethical concerns and violated human rights and international agreements. Throughout history, the methods for lie detection, commonly referred to as deceit identification, have been subject to scrutiny, leading to ongoing discussions.
